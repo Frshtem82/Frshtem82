@@ -49,6 +49,7 @@ I have hands-on experience building **RAG systems, speech recognition services, 
 ## 🚀 Featured Projects
 
 - [**LLM Document QA**](https://github.com/Frshtem82/llm_document_qa) – Document-based question answering system using semantic retrieval and LLM-based response generation (RAG).
+- [**P2P Chat System**](https://github.com/Frshtem82/p2p-chat-system) – Peer-to-peer chat application in Python with STUN-based peer discovery, direct TCP messaging, and SHA256-verified file transfer. Includes terminal and Tkinter GUI clients
 - [**Movie Recommender**](https://github.com/Frshtem82/movie-recommender) – Movie recommendation web application built with JavaScript.
 - [**Space Invaders Game**](https://github.com/Frshtem82/space-invaders-game) – Classic arcade game developed in C++.
 
@@ -80,8 +81,6 @@ I have hands-on experience building **RAG systems, speech recognition services, 
 ## 🎯 Current Focus
 
 - 🎓 **Bachelor's thesis:** Federated learning-based network intrusion detection with knowledge distillation
-- 🔍 Exploring heterogeneous data (non-IID) challenges in federated learning
-- 📚 Reading recent research on privacy-preserving and efficient ML
 
 ---
 
