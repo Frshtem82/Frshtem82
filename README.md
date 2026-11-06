@@ -61,7 +61,7 @@ I have hands-on experience building **RAG systems, speech recognition services, 
 - 🏅 **Top Performer in Artificial Intelligence** – 2nd National Technology Olympiad, Iran
 - 🏅 **Top Performer in Frontend Development** – 2nd National Technology Olympiad, Iran
 - 📜 Certification – Web Security Fundamentals (Amirkabir University of Technology)
-- 👩‍🏫 Teaching Assistant for 6 undergraduate CS courses at Amirkabir University of Technology
+- 👩‍🏫 Teaching Assistant for 5 undergraduate CS courses at Amirkabir University of Technology
 
 ---
 
